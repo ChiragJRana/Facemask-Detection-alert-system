@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Training and practice folder for the project
+ML_model_and_training/
